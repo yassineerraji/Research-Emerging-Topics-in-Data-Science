@@ -83,6 +83,11 @@ The project runs through a **fully automated pipeline**, launched via:
 ```bash
 python main.py
 ```
+or
+
+```bash
+python3 main.py
+```
 
 ### 1. Data Ingestion
 - Load the OWID dataset from `data/owid-co2-data.csv`
